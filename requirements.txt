@@ -1,0 +1,5 @@
+Cython==0.29.26
+alembic==1.5.8
+psycopg2-binary==2.8.5
+tornado==6.1
+sqlalchemy
