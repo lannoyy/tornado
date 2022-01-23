@@ -19,7 +19,6 @@ $ docker-compose up -d --build
    
     Create new request
 
-    ```
     If body valid, return response with 200 status in format:
    ```json
    {
